@@ -1,0 +1,1 @@
+this is the merging tutorial using github itself. 
